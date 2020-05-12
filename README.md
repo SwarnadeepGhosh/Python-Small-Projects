@@ -1,7 +1,8 @@
 # Python-Small-Projects
+==========================================================================
 
-### * Adventure Game 
+### Adventure Game 
 
-### * Breakfast Ordering Bot 
+### Breakfast Ordering Bot 
 
-###  * Elevator Program
+###  Elevator Program
