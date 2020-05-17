@@ -1,13 +1,6 @@
+# https://github.com/SwarnadeepGhosh
 # Creating a simple efficient program for ordering breakfast
-'''
-First please keep in mind :
-1. Get input and use it to determine what happens next
-2. Handle bad input without crashing
-3. Be flexible with the input the user can enter
-4. Print messages to the console, with a short pause after each one
-5. Allow the player to order again if they like
-6. Now we have a better idea of the specifications for the program, we can start putting it together.
-'''
+
 import time
 
 def print_pause(printable_value):
