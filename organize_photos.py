@@ -8,7 +8,7 @@ def makePlaceDirectories(places):
         os.mkdir(place)
 
 
-# Extract the place names from the file names
+# Extract the place names from the file names 
 def extractPlace(fileName):
     first_ = fileName.find('_')
     fileName = fileName[first_+1:]
