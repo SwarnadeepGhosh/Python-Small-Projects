@@ -1,6 +1,6 @@
 # Python-Small-Projects 
 
-### Weather Forecast using MetaWeather API and Python
+### Weather Forecast using MetaWeather API and Python 
 
 ### Adventure Game 
 
