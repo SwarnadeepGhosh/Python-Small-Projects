@@ -1,5 +1,5 @@
 # https://github.com/SwarnadeepGhosh
-# Six Days Weather Forecast using Python and MetaWeather API
+# Six Days Weather Forecast using Python and MetaWeather API 
 
 import requests
 import time
